@@ -1,4 +1,3 @@
-# Dr P Bhagath
 ## Professor & Researcher
 
 ## Academics
