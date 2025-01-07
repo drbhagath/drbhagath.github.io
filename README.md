@@ -1,6 +1,4 @@
-# Parabattina Bhagath
-Speech Scientist
-
+# M.Tech(IITG), Ph.D(IITG)
 # Speech Processing for Low Resource Languages
 
 Welcome to the repository for **Dr Bhagath P**. This project focuses on developing tools, techniques, and datasets for the analysis and synthesis of speech in underrepresented and low-resource languages.
