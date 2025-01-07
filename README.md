@@ -1,4 +1,4 @@
-# drbhagath.github.io
+# Parabattina Bhagath
 Speech Scientist
 
 # Speech Processing for Low Resource Languages
