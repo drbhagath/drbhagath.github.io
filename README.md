@@ -1,87 +1,23 @@
-# M.Tech(IITG), Ph.D(IITG)
-# Speech Processing for Low Resource Languages
+<h1 align="center">Hi 👋, I'm Dr P. Bhagath</h1>
+<h3 align="center">Academician and Researcher</h3>
 
-Welcome to the repository for **Dr Bhagath P**. This project focuses on developing tools, techniques, and datasets for the analysis and synthesis of speech in underrepresented and low-resource languages.
+- 🔭 I’m currently working as [Professor](LBRCE Mylavaram, Andhra Pradesh, India)
 
-## Objectives
-- Enhance accessibility and inclusivity in speech technology.
-- Develop algorithms optimized for low-resource settings.
-- Build and share open-source datasets for low-resource languages.
+- 🌱 I’m currently learning **Graph Signal Processing**
 
-## Features
-- **Data Collection Pipelines**: Tools for efficient data collection and annotation.
-- **Speech Recognition Models**: End-to-end ASR models tailored for low-resource languages.
-- **Speech Synthesis**: Text-to-speech (TTS) systems for creating high-quality audio outputs.
-- **Language Resources**: Pre-trained models and datasets for various low-resource languages.
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/drbhagath/home](https://sites.google.com/view/drbhagath/home)
 
-## Getting Started
+- 📝 I regularly write articles on [https://sites.google.com/view/drbhagath/home](https://sites.google.com/view/drbhagath/home)
 
-### Prerequisites
-- Python 3.8+
-- PyTorch / TensorFlow (latest version)
-- Other dependencies listed in `requirements.txt`
+- 💬 Ask me about **Speech Processing**
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/low-resource-speech-processing.git
-cd low-resource-speech-processing
+- 📫 How to reach me **bhagath@lbrce.ac.in**
 
-# Install dependencies
-pip install -r requirements.txt
-```
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m3l6Izo6l0u2Z4mkgA5MauoXGDpn-vnN/view](https://drive.google.com/file/d/1m3l6Izo6l0u2Z4mkgA5MauoXGDpn-vnN/view)
 
-### Usage
-- **Training an ASR Model**:
-  ```bash
-  python train_asr.py --config configs/asr_config.yaml
-  ```
-- **Testing a Pre-trained Model**:
-  ```bash
-  python test_asr.py --model checkpoints/asr_model.pth --data test_data/
-  ```
-- **Synthesizing Speech**:
-  ```bash
-  python synthesize.py --text "Hello, world!" --language your_language_code
-  ```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Repository Structure
-```
-low-resource-speech-processing/
-├── data/                # Dataset storage and processing scripts
-├── models/              # Model architectures
-├── configs/             # Configuration files
-├── notebooks/           # Jupyter notebooks for experiments
-├── scripts/             # Utility scripts for preprocessing, evaluation, etc.
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-```
-
-## Contributing
-Contributions are welcome! Please follow the steps below:
-1. Fork this repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add a new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgments
-We are grateful to the open-source community and researchers working to make speech technology more inclusive.
-
-## Contact
-For inquiries, please contact:
-[Your Name](mailto:your.email@university.edu)
-[Your Institution]
-
----
-
-### Current Focus Languages
-This repository is currently focused on the following low-resource languages:
-- [Language 1]
-- [Language 2]
-- [Language 3]
-
-Let us know if you'd like to collaborate on additional languages!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
